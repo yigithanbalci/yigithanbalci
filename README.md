@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-listening-now-yigithanbalci.vercel.app//api/spotify-playing" alt="Yiğithan Spotify Playing" width="350" />](https://open.spotify.com/user/11141396542)
+[<img src="https://spotify-listening-now-yigithanbalci.yigithanbalci.vercel.app/api/run-spotify-status" alt="Yiğithan Spotify Playing" width="350" />](https://open.spotify.com/user/11141396542)
 
 ### Connect with me:
 
