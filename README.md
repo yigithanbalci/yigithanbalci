@@ -1,7 +1,4 @@
-### Hi there, I'm Yigit[Website] 👋
-
-[![Website](https://yigithankadirbalci.com/wp-content/uploads/2020/02/cropped-yigit-32x32.jpg)](https://yigithankadirbalci.com/en/)
-[![LinkdIn](https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png)](https://www.linkedin.com/in/yigithanbalci/)
+### Hi there, I'm Yigit 👋
 
 ## I'm a Scientist, Engineer, Developer and an Otaku!!
 
