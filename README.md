@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="yigithankadirbalci.com" width="22px" src="https://yigithankadirbalci.com/wp-content/uploads/2020/02/cropped-yigit-32x32.jpg" />][website]
-[<img align="left" alt="yigithanbalci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkdIn]
+[<img align="left" alt="yigithanbalci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
