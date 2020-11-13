@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2020 Goals: Contribute to Open Source projects (uh oh, maybe 2021)
 - ⚡ Fun fact: I love to play guitar / drums
 
 ### Spotify Playing 🎧
