@@ -15,6 +15,8 @@
 
 [<img align="left" alt="yigithankadirbalci.com" width="22px" src="https://yigithankadirbalci.com/wp-content/uploads/2020/02/cropped-yigit-32x32.jpg" />][website]
 [<img align="left" alt="yigithanbalci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yigithanbalci | StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img align="left" alt="yigithanbalci | StackOverflow2" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow2]
 
 <br />
 
@@ -42,3 +44,5 @@
 
 [website]: https://yigithankadirbalci.com
 [linkedin]: https://linkedin.com/in/yigithanbalci
+[stackoverflow]: https://stackoverflow.com/story/yigithanbalci
+[stackoverflow2]: https://stackoverflow.com/cv/yigithankadirbalci
